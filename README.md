@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Reshika Geeganage 👋  
-### QA Engineer | Automation Tester | Aspiring SDET | AI Enthusiast
+## Aspiring QA Engineer | Test Automation | ISTQB CTFL Candidate | Software Developer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43B02A&center=true&vCenter=true&width=520&lines=QA+%26+Automation+Engineer;Selenium+%7C+Playwright+%7C+TestNG;Healthcare+%26+Web+Projects;ISTQB+CTFL+Candidate" alt="Typing SVG" />
