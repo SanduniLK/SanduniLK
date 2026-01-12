@@ -1,57 +1,65 @@
-# Hi there, I'm Reshika Geeganage 👋 
-### QA Engineer Intern | Full-Stack Developer | ML Enthusiast
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Looking%20for%20QA%20Internship-green?style=for-the-badge" />
+# Hi there, I'm <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3bmZueGZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mG2mS8pP06TLYQ7hXy/giphy.gif" width="35"> Reshika Geeganage
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43B02A&center=true&vCenter=true&width=435&lines=QA+Engineer+Intern;Full-Stack+Developer;Selenium+Automation+Expert;ML+Enthusiast" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Looking%20for%20QA%20Internship-green?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-### 🛠️ My Tech Stack
+### ⚡ Quick Overview
+  
+  📫 **Contact:** geeganagesanduni83@gmail.com
+  🌱 **Currently Learning:** Selenium Advanced & DevOps
+  🔭 **Working on:** WebRTC Node.js Real-time Apps
 
-**QA & Automation**
-![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat&logo=selenium&logoColor=white) 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-**App & Web Development**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+### 🛠️ Animated Tech Stack
 
-**Real-Time & AI**
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium,py,flutter,firebase,nodejs,cs,tensorflow,react,github,vscode&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧪 Automated Testing Suite
-*Created a Selenium-based automation framework using Python to test web application workflows.*
-> **Keywords:** Selenium, PyTest, Bug Reporting.
-
-#### 📱 Flutter & Firebase App
-*A full-stack mobile application featuring real-time communication via WebRTC and Node.js backend.*
-> **Keywords:** Flutter, WebRTC, Firebase, Socket.io.
-
-#### 📊 Inventory Management System
-*A robust desktop application built with C# for real-time stock tracking and management.*
-> **Keywords:** C#, .NET, SQL Server.
-
-#### 🧠 ML Project
-*Developing intelligent solutions and predictive models using Python.*
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **🧪 QA Automation** | Selenium framework for automated web testing. | `Python` `Selenium` |
+| **📱 Flutter App** | Real-time app with WebRTC & Node.js backend. | `Flutter` `WebRTC` |
+| **📊 Inventory System** | Full-scale C# management desktop application. | `C#` `.NET` |
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanduniLK&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniLK&layout=compact&theme=radical" />
+### 📊 My GitHub Journey
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanduniLK&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniLK&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanduniLK&theme=tokyonight&border_radius=10" width="100%" />
+</div>
+
+---
+
+### 👋 Connect with Me
+<p align="center">
+<a href="https://www.linkedin.com/in/sanduniphgr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:geeganagesanduni83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanduniphgr/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geeganagesanduni83@gmail.com)
+</div>
