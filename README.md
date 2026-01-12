@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Reshika geeganage 👋 
 ### QA Engineer Intern | Full-Stack Developer | ML Enthusiast
 
 <p align="left">
