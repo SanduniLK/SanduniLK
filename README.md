@@ -4,7 +4,7 @@
 ## Aspiring QA Engineer | Test Automation |Software Developer|flutter devoloper
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43B02A&center=true&vCenter=true&width=520&lines=QA+%26+Automation+Engineer;Selenium+%7C+Playwright+%7C+TestNG;Healthcare+%26+Web+Projects;Flutter+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=43B02A&center=true&vCenter=true&width=520&lines=Flutter+%26+React+Native+Developer;Mobile+App+Development;Flutter+%7C+React+Native+%7C+Node.js;Healthcare+%26+Real+World+Projects" alt="Typing SVG" />
 </a>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Sri%20Lanka-blue?style=flat-square&logo=googlemaps" />
